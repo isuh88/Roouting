@@ -2,9 +2,8 @@
 
 > **_“빅스비 루틴을 웹에서 사용할 수 있다면 어떨까?”_**
 
-![Untitled (1).png](<https://prod-files-secure.s3.us-west-2.amazonaws.com/eb56db9e-d96e-4de2-a617-26cd1693bbef/c3445768-1f9b-4852-96e8-7cd6666dc763/Untitled_(1).png>)
-
-![Untitled.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/eb56db9e-d96e-4de2-a617-26cd1693bbef/72283cc4-9e14-4417-acd4-91106e264e72/Untitled.png)
+| ![Untitled (1).png](./assets/bixby.png) | ![Untitled.png](./assets/bixby2.png) |
+| --------------------------------------- | ------------------------------------ |
 
 ### What We **Want: 개인용 업무 자동화 생산성 도구**
 
@@ -31,7 +30,7 @@
 
 [일 잘하는 팀의 실전 '재피어(Zapier)' 활용법 - 업무용 협업툴 JANDI 블로그](https://blog.jandi.com/ko/2022/06/30/how-to-zapier-like-a-pro/)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/eb56db9e-d96e-4de2-a617-26cd1693bbef/38e58075-7c9f-410f-94c0-1bdae43326af/Untitled.png)
+![Untitled](./assets/zapier.png)
 
 - **Zap = Trigger + Action**
 
@@ -62,7 +61,7 @@ But,
 2. 구글 캘린더에 일정 등록, 노션 페이지에 첨부 파일 추가, 스프레드시트에 행 추가 등의 사용자 설정 이벤트 자동 실행
 3. 사용자는 복잡한 코딩 과정 없이 GUI만으로 루틴 관리
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/eb56db9e-d96e-4de2-a617-26cd1693bbef/13957cb0-6abf-48fa-8ee8-b483a88f9413/Untitled.png)
+![Untitled](./assets/zapierexample.png)
 
 ---
 
