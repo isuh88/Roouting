@@ -17,6 +17,8 @@
 
 [사장님 몰래 하는 파이썬 업무자동화(부제 : 들키면 일 많아짐)](https://wikidocs.net/book/6353)
 
+https://support.apple.com/ko-kr/guide/shortcuts-mac/apdf22b0444c/mac
+
 - 파이썬 코드를 통한 일종의 매크로에 불과
 - 특정 프로그램 내에서의 자동화에 국한
 
